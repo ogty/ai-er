@@ -1,1 +1,1 @@
-# AI *er
+# AI eror
